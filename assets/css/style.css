@@ -1,1 +1,6 @@
 @import url('./default.css');
+
+header {
+    height: 500px;
+    background-color: red;
+}
